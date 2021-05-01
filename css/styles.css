@@ -211,6 +211,16 @@ section {
 	height: 175px;
 	width: 175px;
 }
+#poem i {
+	color: #fff;
+	font-size: 75px;
+	background: #008ed6;
+	border-radius: 50%;
+	line-height: 175px;
+	height: 175px;
+	width: 175px;
+}
+
 
 /* SUBSCRIBE */
 
